@@ -148,7 +148,7 @@ contactForm.addEventListener('submit', function(e) {
         const whatsappMessage = encodeURIComponent(
             `Hi, I'm ${formData.name}. ${formData.message}`
         );
-        window.open(`https://wa.me/919876543210?text=${whatsappMessage}`, '_blank');
+        window.open(`https://wa.me/917722872643?text=${whatsappMessage}`, '_blank');
     }, 1500);
     
     // Reset form after 5 seconds
